@@ -43,7 +43,7 @@ namespace Mi_primer_Bot
             }
             else if (message.Type == ActivityTypes.ContactRelationUpdate)
             {
-                // Handle add/remove from contact lists
+                // Handle add/remove from contact lists dfdffg
                 // Activity.From + Activity.Action represent what happened
             }
             else if (message.Type == ActivityTypes.Typing)
